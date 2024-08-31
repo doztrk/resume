@@ -8,7 +8,7 @@ export const Avatar = () => {
 				<img src="/images/my-pic.jpg" alt="avatar" />
 			</div>
 
-			<div class="name">
+			<div className="name">
 				<h1>John Doe</h1>
 				<span>UX/UI Designer</span>
 			</div>

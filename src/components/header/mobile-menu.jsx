@@ -5,7 +5,7 @@ export const MobileMenu = () => {
 	return (
 		<div className="mobile-bar visible-sm visible-xs">
 			<div className="hamburger-menu">
-				<div class="bar"></div>
+				<div className="bar"></div>
 			</div>
 		</div>
 	);
