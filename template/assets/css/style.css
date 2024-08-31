@@ -527,7 +527,9 @@ li {
         -moz-transition: all .3s ease-in-out;
         -o-transition: all .3s ease-in-out;
         transition: all .3s ease-in-out;
-    }
+        -moz-transform: translateX(-260px);
+        -o-transform: translateX(-260px);
+}
 
     .pushed {
         -ms-transform: translateX(0);
