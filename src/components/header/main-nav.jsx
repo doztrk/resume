@@ -1,5 +1,5 @@
 import React from "react";
-import "./main-nav.css";	
+import "./main-nav.css";
 
 export const MainNav = () => {
 	return (
@@ -9,10 +9,10 @@ export const MainNav = () => {
 					<a href="#about">About Me</a>
 				</li>
 				<li>
-					<a href="#experience">Expereince</a>
+					<a href="#experiences">Expereince</a>
 				</li>
 				<li>
-					<a href="#education">Education</a>
+					<a href="#educations">Education</a>
 				</li>
 				<li>
 					<a href="#testimonials">Testimonals</a>
