@@ -15,7 +15,7 @@ export const MainNav = () => {
 					<a href="#educations">Education</a>
 				</li>
 				<li>
-					<a href="#testimonials">Testimonals</a>
+					<a href="#testimonials">Testimonials</a>
 				</li>
 				<li>
 					<a href="#contact">Contact</a>

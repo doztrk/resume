@@ -19,6 +19,6 @@ export const Testimonial = (props) => {
 					<span className="author">- {name} -</span>
 				</div>
 			</div>
-		</div>
+		</div> 
 	);
 };
